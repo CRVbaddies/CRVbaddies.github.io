@@ -68,7 +68,7 @@
 }
 
 .card-body {
-	background-color: #a9a9a9; /***dark gray ***/
+	background-color: #4F091D; /***maroon ***/
 	border-width: 2px;
 	border-style: solid;
 	border-color: #ffffff; /***white***/
@@ -127,7 +127,7 @@ a:hover {
   width: 100%;
   opacity: 0;
   transition: 1s ease;
-  background-color: #a9a9a9; /***dark gray ***/
+  background-color:  #F5EEDC; /***ivory***/
 }
 
 .card:hover .overlay {
@@ -178,7 +178,7 @@ a:hover {
 }
 
 .fa-twitter {
-  color: #cff1ff; /***light blue***/
+  color: #97BFB4; /***teal***/
   padding: 1%;
 }
 
@@ -187,7 +187,7 @@ a:hover {
 }
 
 .fa-linkedin-in {
-	color: #cff1ff; /***light blue***/
+	color: #97BFB4; /***teal***/
 	padding: 1%;
 }
 
@@ -196,7 +196,7 @@ a:hover {
 }
 
 .fa-github {
-	color: #cff1ff; /***light blue***/
+	color: #97BFB4; /***teal***/
 	padding: 1%;
 }
 
@@ -205,5 +205,5 @@ a:hover {
 }
 
 .fa-copyright {
-	color: #cff1ff; /***light blue***/
+	color: #97BFB4; /***teal***/
 }
