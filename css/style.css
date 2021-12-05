@@ -1,10 +1,10 @@
 .navbar {
-	background-color: #d3d3d3; /***light grey***/
+	background-color: #4F091D; /***maroon***/
 	border-radius: 0;
 }
 
 .navbar-default .navbar-brand {
-	color: #a9a9a9; /***dark gray ***/
+	color: #4F091D; /***maroon ***/
 	font-size: px;
 	font-weight: bold;
 }
@@ -13,12 +13,12 @@
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-	color: #ebb93b; /***mustard***/
+	color: #F5EEDC; /***ivory***/
 	text-decoration: none;
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #a9a9a9; /***dark gray ***/
+	color: #4F091D; /***maroon ***/
 	font-size: 16px;
 	padding: 10px;
 }
@@ -52,7 +52,7 @@
 	background-size: cover;
 	width: 100%;
 	text-align: center;
-	color: #cff1ff; /***light blue***/
+	color: #DD4A48; /***pink***/
 	text-shadow: 1px 1px 5px #525252; /***dark grey***/
 	padding: 10%;
 	border-radius: 0px;
