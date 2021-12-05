@@ -26,7 +26,7 @@
 .navbar-toggler {
 	color: #ffffff;
 	border-color: #ffffff;
-	background-color: #a9a9a9; /***dark gray ***/
+	background-color: #F5EEDC; /***ivory***/
 	border-radius: 4px;
 	border: 1px solid;
 	fill: #ffffff;
@@ -76,7 +76,7 @@
 
 body {
 	font-family: 'Geneva', sans-serif;
-	background-color: #a9a9a9; /***dark gray ***/
+	background-color: #DD4A48; /***pink***/
 	color: #ffffff;
 }
 
@@ -85,18 +85,18 @@ h1 {
 }
 
 h2 {
-	color: #cff1ff; /***light blue***/
+	color: #97BFB4; /***teal***/
 }
 
 h3 {
-	color: #cff1ff; /***light blue***/
+	color: #97BFB4; /***teal***/
 	font-size: 36px;
 	margin-top: 25px;
 	margin-bottom: 15px;
 }
 
 h4 {
-	color: #cff1ff; /***light blue***/
+	color: #97BFB4; /***teal***/
 	font-weight: bold
 }
 
